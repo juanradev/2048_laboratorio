@@ -11,9 +11,10 @@ Contiene las practicas de los laboratorios del Curso 20480 HTML CSS JAVASCRIPT
 5. ##### Lab MOD06 (28/09/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Mod_06 _añadiendo estilo al HTML5 usando CSS3_
 6. ##### Lab MOD07 (29/09/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Mod_07 _creacion de objetos mediante class_
 7. ##### Lab MOD08 (30/09/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Mod_08 _Creación de páginas interactivas con API HTML5._
-8. ##### Lab MOD08 (30/09/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Mod_09 _offline._
-9. ##### Lab MOD08 (30/09/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Mod_10 _Web adapatativa_
-
+8. ##### Lab MOD09 (30/09/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Mod_09 _offline._
+9. ##### Lab MOD010 (30/09/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Mod_10 _Web adapatativa_
+10. ##### Lab MOD011 (02/10/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Lab11 _graficos svg y canvas_
+11. ##### Lab MOD012 (03/10/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Lab11 _animaciones_
 
 
 
