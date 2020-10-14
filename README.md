@@ -17,6 +17,7 @@ Contiene las practicas de los laboratorios del Curso 20480 HTML CSS JAVASCRIPT
 11. ##### Lab MOD012 (03/10/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Lab12 _animaciones_
 11. ##### Lab MOD013 (04/10/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Lab13 _webSockets_
 11. ##### Lab MOD014 (03/10/2020) https://github.com/juanradev/2048_laboratorio/tree/master/Lab14 _webWorker_
+12. ##### Lab MOD015 (12/10/2020) https://github.com/juanradev/2048_laboratorio/tree/master/lab15 _empaquetado_
 
 
 
